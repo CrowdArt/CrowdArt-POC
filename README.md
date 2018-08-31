@@ -8,3 +8,5 @@
 * npm install @material-ui/icons
 * npm install typeface-roboto --save
 * npm install enzyme@^3.0.0
+#### React Router
+* npm install --save react-router react-router-dom react-router-config
