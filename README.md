@@ -6,3 +6,4 @@
 #### Material UI
 * npm install @material-ui/core
 * npm install typeface-roboto --save
+* npm install enzyme@^3.0.0
