@@ -12,3 +12,7 @@
 * npm install enzyme@^3.0.0
 #### React Router
 * npm install --save react-router react-router-dom react-router-config
+
+### Create Build
+* npm run dev:build:server
+* npm run dev:server
