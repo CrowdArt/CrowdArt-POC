@@ -7,6 +7,7 @@
 * https://restfulapi.net/security-essentials/
 * [Introduction to Distributed Systems](https://hackernoon.com/a-thorough-introduction-to-distributed-systems-3b91562c9b3c)
 * [Dweb: Building Cooperation and Trust into the Web with IPFS](https://hacks.mozilla.org/2018/08/dweb-building-cooperation-and-trust-into-the-web-with-ipfs/?utm_source=dev-newsletter&utm_medium=email&utm_campaign=aug30-2018&utm_content=dweb)
+* [Material Kit React](https://demos.creative-tim.com/material-kit-react/#/)
 
 #### Material UI
 * npm install @material-ui/core
