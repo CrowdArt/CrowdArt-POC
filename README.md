@@ -22,6 +22,8 @@
 * npm run dev:server
 
 ## Firebase
+* [Firebase Console](https://console.firebase.google.com/u/0/project/coinart-b825c/database/coinart-b825c/data)
+
 Open a terminal window and navigate to or create a directory for your site
 
 Sign in to Google:
