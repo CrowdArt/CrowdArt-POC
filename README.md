@@ -35,3 +35,12 @@ Add your static files to your deploy directory (the default is public)
 Deploy your website:
 
 $ firebase deploy
+
+```service cloud.firestore {
+  match /databases/{database}/documents {
+    match /{document=**} {
+      allow read, write;
+    }
+  }
+}
+```
