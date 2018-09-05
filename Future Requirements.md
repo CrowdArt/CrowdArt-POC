@@ -5,3 +5,5 @@
 * https://token.popchest.com/
 * [POP Chest](https://popchest.com/)
 * [Coinbase | Developers](https://developers.coinbase.com/)
+* [Implementing KYC for your ICO : A Primer](https://identitymindglobal.com/ico/implementing-kyc-for-your-ico-a-primer/)
+* 
