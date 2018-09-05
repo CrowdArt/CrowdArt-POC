@@ -7,3 +7,4 @@
 * [Coinbase | Developers](https://developers.coinbase.com/)
 * [Implementing KYC for your ICO : A Primer](https://identitymindglobal.com/ico/implementing-kyc-for-your-ico-a-primer/)
 * [Radar Relay | Github](https://github.com/RadarRelay/)
+* [Radar Relay | Developers](https://developers.radarrelay.com/)
