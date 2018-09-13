@@ -10,6 +10,7 @@
 * [Material Kit React](https://demos.creative-tim.com/material-kit-react/#/)
 * [Swaggerhub](https://app.swaggerhub.com/apis/CrowdArt/ca2/1.0.0)
 * [Datum](https://app.swaggerhub.com/apis/CrowdArt/ca2/1.0.0)
+* [Cosmos Network](https://cosmos.network/docs/getting-started/installation.html)
 
 ### Ethereum Application Architecture
 * Browser => Web3 => Metamask (public/private keys) => Ethereum network
