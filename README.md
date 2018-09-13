@@ -11,6 +11,9 @@
 * [Swaggerhub](https://app.swaggerhub.com/apis/CrowdArt/ca2/1.0.0)
 * [Datum](https://app.swaggerhub.com/apis/CrowdArt/ca2/1.0.0)
 
+### Ethereum Application Architecture
+* Browser => Web3 => Metamask (public/private keys) => Ethereum network
+
 ### MyEthereumWallet
 * [MyEthereumWallet](https://www.myetherwallet.com/)
 * Marina0624!@#$#@!
