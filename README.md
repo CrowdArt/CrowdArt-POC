@@ -14,7 +14,12 @@
 ### Ethereum Application Architecture
 * Browser => Web3 => Metamask (public/private keys) => Ethereum network
 * Application interacts with Web3, Web3 interacts with Metamask, Metamask creates a transaction and signs it with users private key and sends teh transaction to the ethereum network.
-* 
+* Anytime the user changes data, they have to send the transaction to the network.  That costs some amount of money.
+* The public and private keys only exist on user's machine.
+* Client is responsible for modifying any data inside the app.
+* Contract ABI - Application Binary Interface = communication layer => translation layer from the blockchain world to the javascript world.
+* We feed the ABI to Web3 instance.  This creates a local copy of the contract.
+* Anytime we deploy a contract to the blockchain it gets a distinct address assigned to it.
 
 ### MyEthereumWallet
 * [MyEthereumWallet](https://www.myetherwallet.com/)
