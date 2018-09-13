@@ -13,6 +13,8 @@
 
 ### Ethereum Application Architecture
 * Browser => Web3 => Metamask (public/private keys) => Ethereum network
+* Application interacts with Web3, Web3 interacts with Metamask, Metamask creates a transaction and signs it with users private key and sends teh transaction to the ethereum network.
+* 
 
 ### MyEthereumWallet
 * [MyEthereumWallet](https://www.myetherwallet.com/)
