@@ -1,4 +1,4 @@
-# ca2
+# Crowdart.io v0.1
 
 * [Axios](https://www.npmjs.com/package/axios)
 * https://medium.freecodecamp.org/quick-guide-to-understanding-and-creating-reactjs-apps-8457ee8f7123
@@ -12,7 +12,10 @@
 * [Datum](https://app.swaggerhub.com/apis/CrowdArt/ca2/1.0.0)
 * [Cosmos Network](https://cosmos.network/docs/getting-started/installation.html)
 * [Tezos](https://tezos.com/resources/)
+### Airbnb Engineering
 * [Airbnb Engineering](https://airbnb.io/)
+
+### SEC and EDGAR
 * [Data.gov Waffle](https://waffle.io/gsa/data.gov)
 * [CKAN API Guide](http://docs.ckan.org/en/latest/api/index.html)
 * [EDGAR Filer Management](https://www.filermanagement.edgarfiling.sec.gov/Welcome/EDGARFilerMgmtMain.htm)
