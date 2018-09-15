@@ -13,6 +13,7 @@
 * [Cosmos Network](https://cosmos.network/docs/getting-started/installation.html)
 * [Tezos](https://tezos.com/resources/)
 * [Sphereon API](https://store.sphereon.com/store/)
+* [Coinbase for Developers](https://developers.coinbase.com/)
 ### Airbnb Engineering
 * [Airbnb Engineering](https://airbnb.io/)
 
