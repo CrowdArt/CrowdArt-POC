@@ -20,6 +20,7 @@
 * [Crowdfunding Offerings Data Sets](https://www.sec.gov/dera/data/crowdfund.pdf)
 * [Electronic Code of Federal Regulations](https://www.ecfr.gov/cgi-bin/text-idx?SID=9f8ef8e784029f5b47498cee11745a0c&mc=true&node=se17.3.227_1400&rgn=div8)
 * [Roubini Blog](https://www.roubiniblog.com/2018/05/ethereum-founder-debates-nouriel.html)
+* [Roubini's validation for tokenizing securities](https://bitsonline.com/ethereum-founder-debates-nouriel-roubini-over-crypto/)
 
 ### Ethereum Application Architecture
 * Browser => Web3 => Metamask (public/private keys) => Ethereum network
