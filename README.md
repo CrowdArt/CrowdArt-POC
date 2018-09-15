@@ -13,6 +13,8 @@
 * [Cosmos Network](https://cosmos.network/docs/getting-started/installation.html)
 * [Tezos](https://tezos.com/resources/)
 * [Airbnb Engineering](https://airbnb.io/)
+* [Data.gov Waffle](https://waffle.io/gsa/data.gov)
+* [CKAN API Guide](http://docs.ckan.org/en/latest/api/index.html)
 * 
 
 ### Ethereum Application Architecture
