@@ -15,6 +15,7 @@
 * [Airbnb Engineering](https://airbnb.io/)
 * [Data.gov Waffle](https://waffle.io/gsa/data.gov)
 * [CKAN API Guide](http://docs.ckan.org/en/latest/api/index.html)
+* [EDGAR Filer Management](https://www.filermanagement.edgarfiling.sec.gov/Welcome/EDGARFilerMgmtMain.htm)
 * 
 
 ### Ethereum Application Architecture
