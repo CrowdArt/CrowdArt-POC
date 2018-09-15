@@ -16,7 +16,10 @@
 * [Data.gov Waffle](https://waffle.io/gsa/data.gov)
 * [CKAN API Guide](http://docs.ckan.org/en/latest/api/index.html)
 * [EDGAR Filer Management](https://www.filermanagement.edgarfiling.sec.gov/Welcome/EDGARFilerMgmtMain.htm)
-* 
+* [EDGAR Technical Specifications](https://www.sec.gov/oit/Article/info-edgar-tech-specs.html)
+* [Crowdfunding Offerings Data Sets](https://www.sec.gov/dera/data/crowdfund.pdf)
+* [Electronic Code of Federal Regulations](https://www.ecfr.gov/cgi-bin/text-idx?SID=9f8ef8e784029f5b47498cee11745a0c&mc=true&node=se17.3.227_1400&rgn=div8)
+* [Roubini Blog](https://www.roubiniblog.com/2018/05/ethereum-founder-debates-nouriel.html)
 
 ### Ethereum Application Architecture
 * Browser => Web3 => Metamask (public/private keys) => Ethereum network
